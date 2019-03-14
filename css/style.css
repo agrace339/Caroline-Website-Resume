@@ -1,0 +1,67 @@
+/*!
+ * Start Bootstrap - Full Width Pics (https://startbootstrap.com/template-overviews/full-width-pics)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
+ */
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,900|Raleway');
+
+@keyframes fadein-about-me{
+  
+}
+
+body { 
+  padding-top: 56px;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1{
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+}
+
+.bg-image-full {
+  background: no-repeat top left fixed;
+  background-size: cover;
+  
+  -webkit-background-size: cover;
+  -webkit-background: no-repeat top fixed;
+  
+  -moz-background-size: cover;
+  -moz-background: no-repeat top fixed;
+  
+  -o-background-size: cover;
+  -o-background: no-repeat top fixed;
+  height: 700px;
+  /*opacity: .85;*/
+}
+
+.title{
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  color: WHITE;
+  font-size: 15vh;
+  text-align: left;
+  margin-left: 10%;
+}
+
+.cgBrand {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+}
+
+.about-me{
+  color: #252525;
+  border-radius: 0;
+  background-color: #F1F1F1;
+}
+
+.about-me-img{
+  max-width: 300px;
+  border-radius: 50%;
+  border: solid 5px #D35D65;
+}
+
+.jumbotron{
+  margin-bottom: 0px;
+}
